@@ -1,11 +1,15 @@
 import React from 'react';
+import {ApolloProvider} from "@apollo/client";
+import apollo from "./apollo";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-      </header>
-    </div>
+      <ApolloProvider client={apollo}>
+          <div className="App">
+              <header className="App-header">
+              </header>
+          </div>
+      </ApolloProvider>
   );
 }
 
