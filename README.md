@@ -1,1 +1,1 @@
-# Apollo Client State Management Practice Project
+# Apollo Client State Management Practice
