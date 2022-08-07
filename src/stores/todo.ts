@@ -5,7 +5,7 @@ export type TodoListType = {
     name: string
 }
 
-export const todoListVar = makeVar<TodoListType[]>([]);
+export const todoListVar = makeVar<TodoListType[]>([{id: 1, name: 'first Works'}]);
 
 export const setTodoList = (list: TodoListType[]) => {
     todoListVar([...list]);

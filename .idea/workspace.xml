@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="270e00cb-51ec-4ad6-9e32-a1d0745e5d81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/TodoList.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stores/todo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TodoForm.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TodoList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodoList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stores/todo.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/stores/todo.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
       <updated>1659841928568</updated>
       <workItem from="1659841930897" duration="20000" />
       <workItem from="1659841952126" duration="213000" />
-      <workItem from="1659843569466" duration="1379000" />
+      <workItem from="1659843569466" duration="3469000" />
     </task>
     <servers />
   </component>
